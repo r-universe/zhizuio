@@ -1,0 +1,10 @@
+{
+  "id": 111193669,
+  "created_at": "2026-02-19T22:02:51.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["moewishart"]
+}
